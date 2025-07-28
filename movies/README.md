@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.imgur.com/ZeU7ZzD.png](https://files.catbox.moe/4qy7xn.png)" alt="Penguin Film Logo" width="200"/>
+  <img src="[https://files.catbox.moe/4qy7xn.png]" alt="Penguin Film Logo" width="200"/>
   <h1>🎬 Penguin Film</h1>
   <p><strong>Website xem phim hoạt hình Trung Quốc Vietsub • Phụ đề chuẩn Hán - Việt</strong></p>
   <em>Khám phá thế giới Đông Hoa qua từng khung hình và lời thoại cổ phong.</em>
@@ -67,7 +67,7 @@ Bạn có thể gửi gợi ý phim, báo lỗi dịch thuật, hoặc yêu cầ
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/ib4Uxxr.gif" alt="divider" width="80" />
+  <img src="[https://i.imgur.com/ib4Uxxr.gif](https://files.catbox.moe/tq2sky.png)" alt="divider" width="80" />
   <br>
-  <strong>🐧 Penguin Film – Nơi hội tụ tinh hoa Đông Hoa, phụ đề cổ phong chuẩn mực</strong>
+  <strong>🐧 Penguin Film – Nơi lưu trữ những thước phim vietsub hay nhất.</strong>
 </div>
