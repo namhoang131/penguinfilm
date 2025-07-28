@@ -9,7 +9,7 @@
     "folder": "sieudaubephanhan",
     "status": "Đang cập nhật",
     "episodes": [
-      { "episode": 1, "filename": "/sieudaubephanhan/tap1.mp4", "title": "Tập 1" },
+      { "episode": 1, "filename": "https://files.catbox.moe/mr1lg5.mp4", "title": "Tập 1" },
       { "episode": 2, "filename": "tap2.mp4", "title": "Tập 2" },
       { "episode": 3, "filename": "tap3.mp4", "title": "Tập 3" },
       { "episode": 4, "filename": "tap4.mp4", "title": "Tập 4" },
