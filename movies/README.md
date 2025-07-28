@@ -14,7 +14,7 @@
 Chúng tôi tập trung biên dịch các bộ phim cổ trang, tiên hiệp, huyền huyễn... với phong cách **Hán - Việt trang trọng**, đậm nét văn hóa cổ phương Đông.  
 Nền tảng giúp khán giả Việt vừa giải trí, vừa tiếp cận ngôn ngữ và tư tưởng Trung Hoa cổ đại một cách sâu sắc và dễ tiếp thu.
 
-> 🎴 **Slogan mới:** *"Khám phá Đông Hoa, cảm nhận cổ phong."*
+> 🎴 **Slogan:** *"Khám phá Đông Hoa, cảm nhận cổ phong."*
 
 ---
 
