@@ -1,0 +1,141 @@
+[
+  {
+    "id": "jujutsu_kaisen",
+    "title": "Jujutsu Kaisen",
+    "description": "Yuji Itadori là một học sinh trung học có thể lực phi thường. Mỗi ngày anh đều đến thăm ông mình tại bệnh viện. Một ngày nọ, con dấu phong ấn vật thể bị nguyền rủa tại trường học của anh bị phá vỡ, và những quái vật bắt đầu xuất hiện.",
+    "genre": ["Hành động", "Huyền bí", "Học đường"],
+    "year": 2020,
+    "poster": "/placeholder.svg?height=400&width=300&text=Jujutsu+Kaisen",
+    "folder": "jujutsu_kaisen",
+    "status": "Hoàn thành",
+    "episodes": [
+      { "episode": 1, "filename": "ep1.mp4", "title": "Ryomen Sukuna" },
+      { "episode": 2, "filename": "ep2.mp4", "title": "Đối với Tôi" },
+      { "episode": 3, "filename": "ep3.mp4", "title": "Cô Gái Thép" },
+      { "episode": 4, "filename": "ep4.mp4", "title": "Lời Nguyền Thai Nhi" },
+      { "episode": 5, "filename": "ep5.mp4", "title": "Lời Nguyền Tử Cung" },
+      { "episode": 6, "filename": "ep6.mp4", "title": "Mưa Sau Cơn Khô Hạn" },
+      { "episode": 7, "filename": "ep7.mp4", "title": "Đột Kích" },
+      { "episode": 8, "filename": "ep8.mp4", "title": "Chán Nản" },
+      { "episode": 9, "filename": "ep9.mp4", "title": "Cá Nhỏ Và Hình Phạt Ngược" },
+      { "episode": 10, "filename": "ep10.mp4", "title": "Nhàn Rỗi Chuyển Hóa" },
+      { "episode": 11, "filename": "ep11.mp4", "title": "Hẹp Hòi" },
+      { "episode": 12, "filename": "ep12.mp4", "title": "Để Bạn Có Thể Tự Hào Về Chính Mình" }
+    ]
+  },
+  {
+    "id": "demon_slayer",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "description": "Tanjiro Kamado là một cậu bé tốt bụng sống cùng gia đình trên núi. Sau khi gia đình bị quỷ tấn công, em gái Nezuko biến thành quỷ, Tanjiro quyết tâm trở thành thợ săn quỷ để cứu em gái.",
+    "genre": ["Hành động", "Lịch sử", "Siêu nhiên"],
+    "year": 2019,
+    "poster": "/placeholder.svg?height=400&width=300&text=Demon+Slayer",
+    "folder": "demon_slayer",
+    "status": "Hoàn thành",
+    "episodes": [
+      { "episode": 1, "filename": "ep1.mp4", "title": "Sự Tàn Nhẫn" },
+      { "episode": 2, "filename": "ep2.mp4", "title": "Thầy Giáo Urokodaki Sakonji" },
+      { "episode": 3, "filename": "ep3.mp4", "title": "Sabito Và Makomo" },
+      { "episode": 4, "filename": "ep4.mp4", "title": "Thử Thách Cuối Cùng" },
+      { "episode": 5, "filename": "ep5.mp4", "title": "Tay Của Riêng Mình" },
+      { "episode": 6, "filename": "ep6.mp4", "title": "Thợ Rèn Kiếm" },
+      { "episode": 7, "filename": "ep7.mp4", "title": "Muzan Kibutsuji" },
+      { "episode": 8, "filename": "ep8.mp4", "title": "Mùi Hương Của Sự Quyến Rũ" },
+      { "episode": 9, "filename": "ep9.mp4", "title": "Temari Và Cầu Tên" },
+      { "episode": 10, "filename": "ep10.mp4", "title": "Luôn Luôn Bảo Vệ" },
+      { "episode": 11, "filename": "ep11.mp4", "title": "Tsuzumi Mansion" },
+      { "episode": 12, "filename": "ep12.mp4", "title": "Heo Rừng Đội Đầu Lâu" }
+    ]
+  },
+  {
+    "id": "attack_on_titan",
+    "title": "Attack on Titan",
+    "description": "Hàng trăm năm trước, loài người gần như bị diệt vong bởi những Titan khổng lồ. Những người sống sót xây dựng một thành phố được bao quanh bởi những bức tường cao để bảo vệ mình khỏi Titan.",
+    "genre": ["Hành động", "Chính kịch", "Giả tưởng"],
+    "year": 2013,
+    "poster": "/placeholder.svg?height=400&width=300&text=Attack+on+Titan",
+    "folder": "attack_on_titan",
+    "status": "Hoàn thành",
+    "episodes": [
+      { "episode": 1, "filename": "ep1.mp4", "title": "Đến Bạn, 2000 Năm Sau" },
+      { "episode": 2, "filename": "ep2.mp4", "title": "Ngày Hôm Đó" },
+      { "episode": 3, "filename": "ep3.mp4", "title": "Đêm Tốt Nghiệp" },
+      { "episode": 4, "filename": "ep4.mp4", "title": "Trận Chiến Đầu Tiên" },
+      { "episode": 5, "filename": "ep5.mp4", "title": "Trận Chiến Trost" },
+      { "episode": 6, "filename": "ep6.mp4", "title": "Thế Giới Mà Cô Ấy Nhìn Thấy" },
+      { "episode": 7, "filename": "ep7.mp4", "title": "Viên Đạn Nhỏ" },
+      { "episode": 8, "filename": "ep8.mp4", "title": "Tôi Có Thể Nghe Thấy Trái Tim Của Mình" },
+      { "episode": 9, "filename": "ep9.mp4", "title": "Nơi Cánh Tay Trái Đi" },
+      { "episode": 10, "filename": "ep10.mp4", "title": "Phản Ứng" },
+      { "episode": 11, "filename": "ep11.mp4", "title": "Thần Tượng" },
+      { "episode": 12, "filename": "ep12.mp4", "title": "Vết Thương" }
+    ]
+  },
+  {
+    "id": "your_name",
+    "title": "Your Name (Kimi no Na wa)",
+    "description": "Mitsuha là một nữ sinh trung học sống ở vùng nông thôn, luôn mơ ước về cuộc sống ở Tokyo. Taki là một nam sinh sống ở Tokyo. Một ngày nọ, họ bắt đầu hoán đổi cơ thể một cách bí ẩn.",
+    "genre": ["Lãng mạn", "Siêu nhiên", "Chính kịch"],
+    "year": 2016,
+    "poster": "/placeholder.svg?height=400&width=300&text=Your+Name",
+    "folder": "your_name",
+    "status": "Phim lẻ",
+    "episodes": [{ "episode": 1, "filename": "movie.mp4", "title": "Your Name - Phim Đầy Đủ" }]
+  },
+  {
+    "id": "spirited_away",
+    "title": "Spirited Away (Sen to Chihiro)",
+    "description": "Chihiro là một cô bé 10 tuổi cùng bố mẹ chuyển đến thị trấn mới. Trên đường đi, họ lạc vào thế giới thần linh, nơi bố mẹ cô bị biến thành lợn và Chihiro phải làm việc để giải cứu họ.",
+    "genre": ["Phiêu lưu", "Gia đình", "Siêu nhiên"],
+    "year": 2001,
+    "poster": "/placeholder.svg?height=400&width=300&text=Spirited+Away",
+    "folder": "spirited_away",
+    "status": "Phim lẻ",
+    "episodes": [{ "episode": 1, "filename": "movie.mp4", "title": "Spirited Away - Phim Đầy Đủ" }]
+  },
+  {
+    "id": "weathering_with_you",
+    "title": "Weathering with You",
+    "description": "Hodaka, một cậu học sinh trung học, bỏ nhà đến Tokyo. Tại đây, cậu gặp Hina, một cô gái có khả năng điều khiển thời tiết. Cùng nhau, họ khám phá sức mạnh kỳ diệu này.",
+    "genre": ["Lãng mạn", "Siêu nhiên", "Chính kịch"],
+    "year": 2019,
+    "poster": "/placeholder.svg?height=400&width=300&text=Weathering+with+You",
+    "folder": "weathering_with_you",
+    "status": "Phim lẻ",
+    "episodes": [{ "episode": 1, "filename": "movie.mp4", "title": "Weathering with You - Phim Đầy Đủ" }]
+  },
+  {
+    "id": "one_piece",
+    "title": "One Piece",
+    "description": "Monkey D. Luffy, một cậu bé có thể co giãn cơ thể như cao su sau khi ăn trái ác quỷ, khám phá Grand Line cùng băng hải tặc Mũ Rơm để tìm kho báu huyền thoại One Piece và trở thành Vua Hải Tặc.",
+    "genre": ["Hành động", "Phiêu lưu", "Hài hước"],
+    "year": 1999,
+    "poster": "/placeholder.svg?height=400&width=300&text=One+Piece",
+    "folder": "one_piece",
+    "status": "Đang phát sóng",
+    "episodes": [
+      { "episode": 1, "filename": "ep1.mp4", "title": "Tôi Là Luffy! Người Sẽ Trở Thành Vua Hải Tặc!" },
+      { "episode": 2, "filename": "ep2.mp4", "title": "Xuất Hiện! Thợ Săn Hải Tặc Roronoa Zoro!" },
+      { "episode": 3, "filename": "ep3.mp4", "title": "Morgan Đại Tá Vs Luffy! Ai Là Người Mạnh Nhất?" },
+      { "episode": 4, "filename": "ep4.mp4", "title": "Quá Khứ Của Luffy! Shanks Tóc Đỏ Xuất Hiện!" },
+      { "episode": 5, "filename": "ep5.mp4", "title": "Sức Mạnh Kinh Hoàng! Hải Tặc Buggy Mũi Đỏ!" }
+    ]
+  },
+  {
+    "id": "naruto",
+    "title": "Naruto",
+    "description": "Uzumaki Naruto là một ninja trẻ sống ở làng Lá, luôn mơ ước trở thành Hokage - người lãnh đạo mạnh nhất của làng. Tuy nhiên, trong người cậu đang bị phong ấn một con quái vật cửu vĩ.",
+    "genre": ["Hành động", "Phiêu lưu", "Võ thuật"],
+    "year": 2002,
+    "poster": "/placeholder.svg?height=400&width=300&text=Naruto",
+    "folder": "naruto",
+    "status": "Hoàn thành",
+    "episodes": [
+      { "episode": 1, "filename": "ep1.mp4", "title": "Nhập Học! Uzumaki Naruto!" },
+      { "episode": 2, "filename": "ep2.mp4", "title": "Tôi Là Konohamaru!" },
+      { "episode": 3, "filename": "ep3.mp4", "title": "Đối Thủ!? Sasuke Và Sakura" },
+      { "episode": 4, "filename": "ep4.mp4", "title": "Thử Thách! Sinh Tồn Trong Rừng" },
+      { "episode": 5, "filename": "ep5.mp4", "title": "Thất Bại! Kakashi Kết Luận" }
+    ]
+  }
+]
