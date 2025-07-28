@@ -1,58 +1,37 @@
-# Cấu trúc thư mục Movies
+# 🎬 Penguin Film — Thế giới hoạt hình Trung Quốc Vietsub
+Penguin Film là nền tảng trực tuyến dành riêng cho cộng đồng yêu thích phim hoạt hình Trung Quốc (Donghua) với phụ đề Hán - Việt được biên dịch chỉn chu, mang đậm phong vị cổ trang. Dự án được thực hiện và duy trì bởi nhóm dịch Penguin Vietsub, với mục tiêu lan tỏa vẻ đẹp của văn hóa Trung Hoa qua từng thước phim, từng câu thoại.
 
-Thư mục này chứa tất cả các file video phim được tổ chức theo cấu trúc:
+# 📌 Mục tiêu của dự án
+Penguin Film được tạo ra nhằm phục vụ những khán giả yêu thích:
 
-\`\`\`
-movies/
-├── jujutsu_kaisen/
-│   ├── ep1.mp4
-│   ├── ep2.mp4
-│   ├── ep3.mp4
-│   └── ...
-├── demon_slayer/
-│   ├── ep1.mp4
-│   ├── ep2.mp4
-│   ├── ep3.mp4
-│   └── ...
-├── attack_on_titan/
-│   ├── ep1.mp4
-│   ├── ep2.mp4
-│   ├── ep3.mp4
-│   └── ...
-├── your_name/
-│   └── movie.mp4
-├── spirited_away/
-│   └── movie.mp4
-├── weathering_with_you/
-│   └── movie.mp4
-├── one_piece/
-│   ├── ep1.mp4
-│   ├── ep2.mp4
-│   ├── ep3.mp4
-│   └── ...
-└── naruto/
-    ├── ep1.mp4
-    ├── ep2.mp4
-    ├── ep3.mp4
-    └── ...
-\`\`\`
+Phim hoạt hình Trung Quốc (Cổ trang, Tiên hiệp, Huyền huyễn, Võ hiệp...)
 
-## Quy tắc đặt tên:
+Phụ đề Hán - Việt trang trọng, sát nghĩa, chuẩn chỉnh
 
-1. **Folder phim**: Sử dụng ID phim từ movies.json (snake_case)
-2. **File tập phim**: Định dạng `ep{số_tập}.mp4` (ví dụ: ep1.mp4, ep2.mp4)
-3. **File phim lẻ**: Sử dụng `movie.mp4`
+Giao diện xem phim đơn giản, dễ sử dụng, không quảng cáo phiền nhiễu
 
-## Cách thêm phim mới:
+Chúng tôi mong muốn xây dựng một thư viện phim vietsub phong phú, nơi người xem có thể vừa thưởng thức hình ảnh đẹp mắt, vừa học thêm Hán ngữ qua từng lời thoại.
 
-1. Tạo folder mới với tên ID phim
-2. Thêm các file video tập phim vào folder
-3. Cập nhật thông tin phim trong `movies.json`
-4. Đảm bảo tên file khớp với `filename` trong JSON
+# 🎞️ Các tính năng nổi bật
+Danh sách phim phân loại rõ ràng: dễ dàng tìm kiếm theo thể loại, năm phát hành, trạng thái cập nhật,...
 
-## Lưu ý:
+Trình phát video riêng: hỗ trợ phụ đề Hán - Việt, tua nhanh, chọn tập linh hoạt, tùy chỉnh tốc độ phát,...
 
-- Tất cả file video phải có định dạng MP4
-- Chất lượng khuyến nghị: 720p hoặc 1080p
-- Kích thước file nên được tối ưu để tải nhanh
-- Đảm bảo tên file không có ký tự đặc biệt hoặc khoảng trắng
+Giao diện tối ưu cho trải nghiệm xem phim: hỗ trợ mọi thiết bị, tốc độ tải nhanh, không giật lag
+
+Tập phim cập nhật liên tục: ưu tiên các bộ phim đang hot, đang chiếu và được khán giả yêu thích
+
+Chất lượng phụ đề được đảm bảo: bản dịch được chăm chút kỹ lưỡng, mang phong cách cổ xưa, trang trọng và hợp ngữ cảnh
+
+# 📣 Hỗ trợ kênh dịch
+Để giúp dự án tiếp tục hoạt động và phát triển lâu dài, Penguin Vietsub luôn mong nhận được sự ủng hộ từ cộng đồng:
+
+YouTube: Penguin Vietsub
+
+TikTok: @penguinvietsub
+
+Nếu bạn yêu thích những bộ phim được chúng tôi mang lại, đừng quên đăng ký kênh, chia sẻ trang web, hoặc giới thiệu cho bạn bè cùng thưởng thức nhé!
+
+❤️ Góp phần xây dựng cộng đồng
+Chúng tôi hoan nghênh mọi đóng góp, góp ý về nội dung phim, chất lượng dịch, hoặc đề xuất tính năng mới.
+Hãy cùng nhau xây dựng một không gian thưởng thức phim văn hóa - học thuật đúng nghĩa!
