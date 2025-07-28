@@ -1,37 +1,63 @@
-# 🎬 Penguin Film — Thế giới hoạt hình Trung Quốc Vietsub
-Penguin Film là nền tảng trực tuyến dành riêng cho cộng đồng yêu thích phim hoạt hình Trung Quốc (Donghua) với phụ đề Hán - Việt được biên dịch chỉn chu, mang đậm phong vị cổ trang. Dự án được thực hiện và duy trì bởi nhóm dịch Penguin Vietsub, với mục tiêu lan tỏa vẻ đẹp của văn hóa Trung Hoa qua từng thước phim, từng câu thoại.
+<h1 align="center">🎬 Penguin Film</h1>
+<p align="center">
+  <strong>Trang web xem phim hoạt hình Trung Quốc Vietsub - Biên dịch bởi Penguin Vietsub</strong><br>
+  <em>Thưởng thức thế giới hoạt hình cổ trang đậm chất Hán - Việt</em>
+</p>
 
-# 📌 Mục tiêu của dự án
-Penguin Film được tạo ra nhằm phục vụ những khán giả yêu thích:
+---
 
-Phim hoạt hình Trung Quốc (Cổ trang, Tiên hiệp, Huyền huyễn, Võ hiệp...)
+## 🐧 Giới thiệu
 
-Phụ đề Hán - Việt trang trọng, sát nghĩa, chuẩn chỉnh
+**Penguin Film** là nền tảng trực tuyến dành cho cộng đồng yêu thích **phim hoạt hình Trung Quốc (Đông Hoa)** với **phụ đề Hán - Việt** được biên dịch chuẩn xác và trau chuốt. Dự án được thực hiện bởi nhóm dịch <strong>Penguin Vietsub</strong> với sứ mệnh:
 
-Giao diện xem phim đơn giản, dễ sử dụng, không quảng cáo phiền nhiễu
+> "Mang tinh hoa văn hóa Hoa Hạ đến gần hơn với khán giả Việt, qua từng thước phim và từng lời thoại cổ trang trầm mặc."
 
-Chúng tôi mong muốn xây dựng một thư viện phim vietsub phong phú, nơi người xem có thể vừa thưởng thức hình ảnh đẹp mắt, vừa học thêm Hán ngữ qua từng lời thoại.
+---
 
-# 🎞️ Các tính năng nổi bật
-Danh sách phim phân loại rõ ràng: dễ dàng tìm kiếm theo thể loại, năm phát hành, trạng thái cập nhật,...
+## 🎯 Mục tiêu
 
-Trình phát video riêng: hỗ trợ phụ đề Hán - Việt, tua nhanh, chọn tập linh hoạt, tùy chỉnh tốc độ phát,...
+- Cung cấp thư viện phim hoạt hình Trung Quốc chất lượng cao, cập nhật liên tục
+- Đảm bảo phụ đề Hán - Việt mang phong cách cổ đại, chính xác và dễ hiểu
+- Mang đến trải nghiệm xem phim mượt mà, không quảng cáo, không phiền toái
+- Góp phần lan tỏa vẻ đẹp của ngôn ngữ, văn hóa và điện ảnh Trung Hoa
 
-Giao diện tối ưu cho trải nghiệm xem phim: hỗ trợ mọi thiết bị, tốc độ tải nhanh, không giật lag
+---
 
-Tập phim cập nhật liên tục: ưu tiên các bộ phim đang hot, đang chiếu và được khán giả yêu thích
+## 🎥 Tính năng nổi bật
 
-Chất lượng phụ đề được đảm bảo: bản dịch được chăm chút kỹ lưỡng, mang phong cách cổ xưa, trang trọng và hợp ngữ cảnh
+✅ Giao diện hiện đại, thân thiện người dùng  
+✅ Danh sách phim phân loại rõ ràng: thể loại, trạng thái, năm phát hành  
+✅ Trình phát video riêng: hỗ trợ tua, chọn tập, phụ đề Hán - Việt  
+✅ Nội dung cập nhật định kỳ, ưu tiên phim hot, đang chiếu  
+✅ Tương thích tốt với cả máy tính và điện thoại di động  
+✅ Không chứa quảng cáo gây khó chịu
 
-# 📣 Hỗ trợ kênh dịch
-Để giúp dự án tiếp tục hoạt động và phát triển lâu dài, Penguin Vietsub luôn mong nhận được sự ủng hộ từ cộng đồng:
+---
 
-YouTube: Penguin Vietsub
+## 📺 Một số thể loại phổ biến
 
-TikTok: @penguinvietsub
+- Cổ Trang – Tiên Hiệp – Huyền Huyễn  
+- Võ Hiệp – Lịch Sử – Hài Hước  
+- Đam Mỹ – Học Đường – Huyền Bí
 
-Nếu bạn yêu thích những bộ phim được chúng tôi mang lại, đừng quên đăng ký kênh, chia sẻ trang web, hoặc giới thiệu cho bạn bè cùng thưởng thức nhé!
+---
 
-❤️ Góp phần xây dựng cộng đồng
-Chúng tôi hoan nghênh mọi đóng góp, góp ý về nội dung phim, chất lượng dịch, hoặc đề xuất tính năng mới.
-Hãy cùng nhau xây dựng một không gian thưởng thức phim văn hóa - học thuật đúng nghĩa!
+## 📣 Ủng hộ Penguin Vietsub
+
+Bạn yêu thích những bộ phim mà chúng tôi mang lại? Hãy ủng hộ nhóm dịch tại:
+
+- 🎬 **YouTube:** [Penguin Vietsub] 
+- 🎵 **TikTok:** [@penguinvietsub]
+
+> "Mỗi lượt xem, chia sẻ và đăng ký là nguồn động lực lớn để chúng tôi tiếp tục dịch và phát triển."
+
+---
+
+## 🤝 Góp ý và phát triển
+
+Chúng tôi luôn trân trọng mọi ý kiến đóng góp từ cộng đồng.  
+Nếu bạn muốn gợi ý phim mới, phản hồi bản dịch, hoặc đề xuất tính năng — đừng ngần ngại tạo Issue hoặc liên hệ trực tiếp với chúng tôi.
+
+---
+
+<p align="center"><strong>🐧 Penguin Film – Xem để hiểu, dịch để yêu!</strong></p>
