@@ -2,140 +2,222 @@
   {
     "id": "sieudaubephanhan",
     "title": "Siêu đầu bếp Hà Nhân",
-    "description": "Hà Nhân xuyên không đến Đại Đường mang theo hệ thống nuôi heo.",
-    "genre": ["Xuyên không", "Hệ thống"],
-    "year": 2020,
-    "poster": "/placeholder.svg?height=400&width=300&text=Jujutsu+Kaisen",
-    "folder": "sieudaubephanhan",
-    "status": "Đang cập nhật",
-    "episodes": [
-      { "episode": 1, "filename": "https://files.catbox.moe/mr1lg5.mp4", "title": "Tập 1" },
-      { "episode": 2, "filename": "tap2.mp4", "title": "Tập 2" },
-      { "episode": 3, "filename": "tap3.mp4", "title": "Tập 3" },
-      { "episode": 4, "filename": "tap4.mp4", "title": "Tập 4" },
-      { "episode": 5, "filename": "tap5.mp4", "title": "Tập 5" },
-      { "episode": 6, "filename": "tap6.mp4", "title": "Tập 6" },
-      { "episode": 7, "filename": "tap7.mp4", "title": "Tập 7" },
-      { "episode": 8, "filename": "tap8.mp4", "title": "Tập 8" },
-      { "episode": 9, "filename": "tap9.mp4", "title": "Tập 9" },
-      { "episode": 10, "filename": "tap10.mp4", "title": "Tập 10" },
-      { "episode": 11, "filename": "tap11.mp4", "title": "Tập 11" },
-      { "episode": 12, "filename": "tap12.mp4", "title": "Tập 12" }
-    ]
-  },
-  {
-    "id": "demon_slayer",
-    "title": "Demon Slayer: Kimetsu no Yaiba",
-    "description": "Tanjiro Kamado là một cậu bé tốt bụng sống cùng gia đình trên núi. Sau khi gia đình bị quỷ tấn công, em gái Nezuko biến thành quỷ, Tanjiro quyết tâm trở thành thợ săn quỷ để cứu em gái.",
-    "genre": ["Hành động", "Lịch sử", "Siêu nhiên"],
-    "year": 2019,
-    "poster": "/placeholder.svg?height=400&width=300&text=Demon+Slayer",
-    "folder": "demon_slayer",
-    "status": "Hoàn thành",
-    "episodes": [
-      { "episode": 1, "filename": "ep1.mp4", "title": "Sự Tàn Nhẫn" },
-      { "episode": 2, "filename": "ep2.mp4", "title": "Thầy Giáo Urokodaki Sakonji" },
-      { "episode": 3, "filename": "ep3.mp4", "title": "Sabito Và Makomo" },
-      { "episode": 4, "filename": "ep4.mp4", "title": "Thử Thách Cuối Cùng" },
-      { "episode": 5, "filename": "ep5.mp4", "title": "Tay Của Riêng Mình" },
-      { "episode": 6, "filename": "ep6.mp4", "title": "Thợ Rèn Kiếm" },
-      { "episode": 7, "filename": "ep7.mp4", "title": "Muzan Kibutsuji" },
-      { "episode": 8, "filename": "ep8.mp4", "title": "Mùi Hương Của Sự Quyến Rũ" },
-      { "episode": 9, "filename": "ep9.mp4", "title": "Temari Và Cầu Tên" },
-      { "episode": 10, "filename": "ep10.mp4", "title": "Luôn Luôn Bảo Vệ" },
-      { "episode": 11, "filename": "ep11.mp4", "title": "Tsuzumi Mansion" },
-      { "episode": 12, "filename": "ep12.mp4", "title": "Heo Rừng Đội Đầu Lâu" }
-    ]
-  },
-  {
-    "id": "attack_on_titan",
-    "title": "Attack on Titan",
-    "description": "Hàng trăm năm trước, loài người gần như bị diệt vong bởi những Titan khổng lồ. Những người sống sót xây dựng một thành phố được bao quanh bởi những bức tường cao để bảo vệ mình khỏi Titan.",
-    "genre": ["Hành động", "Chính kịch", "Giả tưởng"],
-    "year": 2013,
-    "poster": "/placeholder.svg?height=400&width=300&text=Attack+on+Titan",
-    "folder": "attack_on_titan",
-    "status": "Hoàn thành",
-    "episodes": [
-      { "episode": 1, "filename": "ep1.mp4", "title": "Đến Bạn, 2000 Năm Sau" },
-      { "episode": 2, "filename": "ep2.mp4", "title": "Ngày Hôm Đó" },
-      { "episode": 3, "filename": "ep3.mp4", "title": "Đêm Tốt Nghiệp" },
-      { "episode": 4, "filename": "ep4.mp4", "title": "Trận Chiến Đầu Tiên" },
-      { "episode": 5, "filename": "ep5.mp4", "title": "Trận Chiến Trost" },
-      { "episode": 6, "filename": "ep6.mp4", "title": "Thế Giới Mà Cô Ấy Nhìn Thấy" },
-      { "episode": 7, "filename": "ep7.mp4", "title": "Viên Đạn Nhỏ" },
-      { "episode": 8, "filename": "ep8.mp4", "title": "Tôi Có Thể Nghe Thấy Trái Tim Của Mình" },
-      { "episode": 9, "filename": "ep9.mp4", "title": "Nơi Cánh Tay Trái Đi" },
-      { "episode": 10, "filename": "ep10.mp4", "title": "Phản Ứng" },
-      { "episode": 11, "filename": "ep11.mp4", "title": "Thần Tượng" },
-      { "episode": 12, "filename": "ep12.mp4", "title": "Vết Thương" }
-    ]
-  },
-  {
-    "id": "your_name",
-    "title": "Your Name (Kimi no Na wa)",
-    "description": "Mitsuha là một nữ sinh trung học sống ở vùng nông thôn, luôn mơ ước về cuộc sống ở Tokyo. Taki là một nam sinh sống ở Tokyo. Một ngày nọ, họ bắt đầu hoán đổi cơ thể một cách bí ẩn.",
-    "genre": ["Lãng mạn", "Siêu nhiên", "Chính kịch"],
-    "year": 2016,
-    "poster": "/placeholder.svg?height=400&width=300&text=Your+Name",
-    "folder": "your_name",
-    "status": "Phim lẻ",
-    "episodes": [{ "episode": 1, "filename": "movie.mp4", "title": "Your Name - Phim Đầy Đủ" }]
-  },
-  {
-    "id": "spirited_away",
-    "title": "Spirited Away (Sen to Chihiro)",
-    "description": "Chihiro là một cô bé 10 tuổi cùng bố mẹ chuyển đến thị trấn mới. Trên đường đi, họ lạc vào thế giới thần linh, nơi bố mẹ cô bị biến thành lợn và Chihiro phải làm việc để giải cứu họ.",
-    "genre": ["Phiêu lưu", "Gia đình", "Siêu nhiên"],
-    "year": 2001,
-    "poster": "/placeholder.svg?height=400&width=300&text=Spirited+Away",
-    "folder": "spirited_away",
-    "status": "Phim lẻ",
-    "episodes": [{ "episode": 1, "filename": "movie.mp4", "title": "Spirited Away - Phim Đầy Đủ" }]
-  },
-  {
-    "id": "weathering_with_you",
-    "title": "Weathering with You",
-    "description": "Hodaka, một cậu học sinh trung học, bỏ nhà đến Tokyo. Tại đây, cậu gặp Hina, một cô gái có khả năng điều khiển thời tiết. Cùng nhau, họ khám phá sức mạnh kỳ diệu này.",
-    "genre": ["Lãng mạn", "Siêu nhiên", "Chính kịch"],
-    "year": 2019,
-    "poster": "/placeholder.svg?height=400&width=300&text=Weathering+with+You",
-    "folder": "weathering_with_you",
-    "status": "Phim lẻ",
-    "episodes": [{ "episode": 1, "filename": "movie.mp4", "title": "Weathering with You - Phim Đầy Đủ" }]
-  },
-  {
-    "id": "one_piece",
-    "title": "One Piece",
-    "description": "Monkey D. Luffy, một cậu bé có thể co giãn cơ thể như cao su sau khi ăn trái ác quỷ, khám phá Grand Line cùng băng hải tặc Mũ Rơm để tìm kho báu huyền thoại One Piece và trở thành Vua Hải Tặc.",
-    "genre": ["Hành động", "Phiêu lưu", "Hài hước"],
-    "year": 1999,
-    "poster": "/placeholder.svg?height=400&width=300&text=One+Piece",
-    "folder": "one_piece",
+    "description": "Hà Nhân xuyên không đến đại đường với hệ thống nuôi heo.",
+    "genre": ["Hành động", "Phiêu lưu", "Hoạt hình Trung Quốc"],
+    "year": 2022,
     "status": "Đang phát sóng",
+    "poster": "/placeholder.svg?height=400&width=300&text=Siêu+đầu+bếp+Hà+Nhân",
+    "cover": "/placeholder.svg?height=600&width=1200&text=Siêu+đầu+bếp+Hà+Nhân+Background",
     "episodes": [
-      { "episode": 1, "filename": "ep1.mp4", "title": "Tôi Là Luffy! Người Sẽ Trở Thành Vua Hải Tặc!" },
-      { "episode": 2, "filename": "ep2.mp4", "title": "Xuất Hiện! Thợ Săn Hải Tặc Roronoa Zoro!" },
-      { "episode": 3, "filename": "ep3.mp4", "title": "Morgan Đại Tá Vs Luffy! Ai Là Người Mạnh Nhất?" },
-      { "episode": 4, "filename": "ep4.mp4", "title": "Quá Khứ Của Luffy! Shanks Tóc Đỏ Xuất Hiện!" },
-      { "episode": 5, "filename": "ep5.mp4", "title": "Sức Mạnh Kinh Hoàng! Hải Tặc Buggy Mũi Đỏ!" }
+      {
+        "episode": 1,
+        "title": "Tập 1: Trở lại",
+        "videoUrl": "https://archive.org/embed/tap1_20250729"
+      },
+      {
+        "episode": 2,
+        "title": "Tập 2: Sức mạnh mới",
+        "videoUrl": "https://archive.org/embed/tap2_20250729"
+      },
+      {
+        "episode": 3,
+        "title": "Tập 3: Thử thách đầu tiên",
+        "videoUrl": "https://archive.org/embed/tap3_20250729"
+      },
+      {
+        "episode": 4,
+        "title": "Tập 4: Học viện Shrek",
+        "videoUrl": "https://archive.org/embed/tap4_20250729"
+      },
+      {
+        "episode": 5,
+        "title": "Tập 5: Đồng đội mới",
+        "videoUrl": "https://archive.org/embed/tap5_20250729"
+      }
     ]
   },
   {
-    "id": "naruto",
-    "title": "Naruto",
-    "description": "Uzumaki Naruto là một ninja trẻ sống ở làng Lá, luôn mơ ước trở thành Hokage - người lãnh đạo mạnh nhất của làng. Tuy nhiên, trong người cậu đang bị phong ấn một con quái vật cửu vĩ.",
-    "genre": ["Hành động", "Phiêu lưu", "Võ thuật"],
-    "year": 2002,
-    "poster": "/placeholder.svg?height=400&width=300&text=Naruto",
-    "folder": "naruto",
-    "status": "Hoàn thành",
+    "id": "perfect_world",
+    "title": "Thế Giới Hoàn Mỹ",
+    "description": "Một thiếu niên nghèo vượt qua nghịch cảnh để trở thành thần tiên. Thạch Hạo sinh ra trong một thế giới đầy nguy hiểm, nơi các sinh vật cổ đại và các cao thủ tu luyện thống trị.",
+    "genre": ["Tu tiên", "Fantasy", "Hoạt hình Trung Quốc"],
+    "year": 2023,
+    "status": "Đang phát sóng",
+    "poster": "/placeholder.svg?height=400&width=300&text=Thế+Giới+Hoàn+Mỹ",
+    "cover": "/placeholder.svg?height=600&width=1200&text=Thế+Giới+Hoàn+Mỹ+Background",
     "episodes": [
-      { "episode": 1, "filename": "ep1.mp4", "title": "Nhập Học! Uzumaki Naruto!" },
-      { "episode": 2, "filename": "ep2.mp4", "title": "Tôi Là Konohamaru!" },
-      { "episode": 3, "filename": "ep3.mp4", "title": "Đối Thủ!? Sasuke Và Sakura" },
-      { "episode": 4, "filename": "ep4.mp4", "title": "Thử Thách! Sinh Tồn Trong Rừng" },
-      { "episode": 5, "filename": "ep5.mp4", "title": "Thất Bại! Kakashi Kết Luận" }
+      {
+        "episode": 1,
+        "title": "Tập 1: Bắt đầu",
+        "videoUrl": "https://archive.org/embed/perfect_world_ep1"
+      },
+      {
+        "episode": 2,
+        "title": "Tập 2: Thức tỉnh",
+        "videoUrl": "https://archive.org/embed/perfect_world_ep2"
+      },
+      {
+        "episode": 3,
+        "title": "Tập 3: Sức mạnh tiềm ẩn",
+        "videoUrl": "https://archive.org/embed/perfect_world_ep3"
+      }
+    ]
+  },
+  {
+    "id": "battle_through_heavens",
+    "title": "Đấu Phá Thương Khung",
+    "description": "Hành trình của Tiêu Viêm từ một thiên tài sa sút đến đỉnh cao tu luyện. Sau khi mất đi sức mạnh, cậu phải tìm cách lấy lại vinh quang và trả thù cho gia tộc.",
+    "genre": ["Hành động", "Tu luyện", "Hoạt hình Trung Quốc"],
+    "year": 2021,
+    "status": "Hoàn thành",
+    "poster": "/placeholder.svg?height=400&width=300&text=Đấu+Phá+Thương+Khung",
+    "cover": "/placeholder.svg?height=600&width=1200&text=Đấu+Phá+Thương+Khung+Background",
+    "episodes": [
+      {
+        "episode": 1,
+        "title": "Tập 1: Thiên tài sa sút",
+        "videoUrl": "https://archive.org/embed/battle_through_heavens_ep1"
+      },
+      {
+        "episode": 2,
+        "title": "Tập 2: Gặp gỡ Dược Lão",
+        "videoUrl": "https://archive.org/embed/battle_through_heavens_ep2"
+      },
+      {
+        "episode": 3,
+        "title": "Tập 3: Bắt đầu tu luyện",
+        "videoUrl": "https://archive.org/embed/battle_through_heavens_ep3"
+      },
+      {
+        "episode": 4,
+        "title": "Tập 4: Thử thách đầu tiên",
+        "videoUrl": "https://archive.org/embed/battle_through_heavens_ep4"
+      }
+    ]
+  },
+  {
+    "id": "swallowed_star",
+    "title": "Nuốt Phệ Tinh Không",
+    "description": "Trong tương lai, Trái Đất bị quái vật xâm lăng, con người phải tiến hóa để sinh tồn. Luo Feng là một trong những chiến sĩ mạnh nhất trong cuộc chiến này.",
+    "genre": ["Khoa học viễn tưởng", "Hành động", "Hoạt hình Trung Quốc"],
+    "year": 2022,
+    "status": "Đang phát sóng",
+    "poster": "/placeholder.svg?height=400&width=300&text=Nuốt+Phệ+Tinh+Không",
+    "cover": "/placeholder.svg?height=600&width=1200&text=Nuốt+Phệ+Tinh+Không+Background",
+    "episodes": [
+      {
+        "episode": 1,
+        "title": "Tập 1: Thế giới mới",
+        "videoUrl": "https://archive.org/embed/swallowed_star_ep1"
+      },
+      {
+        "episode": 2,
+        "title": "Tập 2: Sức mạnh tiềm ẩn",
+        "videoUrl": "https://archive.org/embed/swallowed_star_ep2"
+      },
+      {
+        "episode": 3,
+        "title": "Tập 3: Cuộc chiến đầu tiên",
+        "videoUrl": "https://archive.org/embed/swallowed_star_ep3"
+      }
+    ]
+  },
+  {
+    "id": "martial_universe",
+    "title": "Vũ Động Càn Khôn",
+    "description": "Lâm Động và hành trình từ một thiếu niên bình thường trở thành cao thủ. Trong thế giới võ thuật này, sức mạnh quyết định tất cả.",
+    "genre": ["Hành động", "Võ thuật", "Hoạt hình Trung Quốc"],
+    "year": 2021,
+    "status": "Hoàn thành",
+    "poster": "/placeholder.svg?height=400&width=300&text=Vũ+Động+Càn+Khôn",
+    "cover": "/placeholder.svg?height=600&width=1200&text=Vũ+Động+Càn+Khôn+Background",
+    "episodes": [
+      {
+        "episode": 1,
+        "title": "Tập 1: Khởi đầu",
+        "videoUrl": "https://archive.org/embed/martial_universe_ep1"
+      },
+      {
+        "episode": 2,
+        "title": "Tập 2: Tu luyện",
+        "videoUrl": "https://archive.org/embed/martial_universe_ep2"
+      },
+      {
+        "episode": 3,
+        "title": "Tập 3: Đối thủ mạnh",
+        "videoUrl": "https://archive.org/embed/martial_universe_ep3"
+      }
+    ]
+  },
+  {
+    "id": "stellar_transformations",
+    "title": "Tinh Thần Biến",
+    "description": "Tần Vũ không thể tu luyện nội công nhưng lại có thể tu luyện ngoại công. Hành trình của cậu từ một hoàng tử bị khinh thường đến đỉnh cao vũ trụ.",
+    "genre": ["Tu tiên", "Khoa học viễn tưởng", "Hoạt hình Trung Quốc"],
+    "year": 2023,
+    "status": "Đang phát sóng",
+    "poster": "/placeholder.svg?height=400&width=300&text=Tinh+Thần+Biến",
+    "cover": "/placeholder.svg?height=600&width=1200&text=Tinh+Thần+Biến+Background",
+    "episodes": [
+      {
+        "episode": 1,
+        "title": "Tập 1: Hoàng tử bị ruồng bỏ",
+        "videoUrl": "https://archive.org/embed/stellar_transformations_ep1"
+      },
+      {
+        "episode": 2,
+        "title": "Tập 2: Phát hiện bí mật",
+        "videoUrl": "https://archive.org/embed/stellar_transformations_ep2"
+      }
+    ]
+  },
+  {
+    "id": "spirit_sword_sovereign",
+    "title": "Linh Kiếm Tôn",
+    "description": "Chu Hành Vân tái sinh về quá khứ với ký ức của tiền kiếp. Lần này, cậu sẽ không để bi kịch lặp lại và trở thành người mạnh nhất.",
+    "genre": ["Tu tiên", "Trọng sinh", "Hoạt hình Trung Quốc"],
+    "year": 2022,
+    "status": "Đang phát sóng",
+    "poster": "/placeholder.svg?height=400&width=300&text=Linh+Kiếm+Tôn",
+    "cover": "/placeholder.svg?height=600&width=1200&text=Linh+Kiếm+Tôn+Background",
+    "episodes": [
+      {
+        "episode": 1,
+        "title": "Tập 1: Tái sinh",
+        "videoUrl": "https://archive.org/embed/spirit_sword_sovereign_ep1"
+      },
+      {
+        "episode": 2,
+        "title": "Tập 2: Ký ức quá khứ",
+        "videoUrl": "https://archive.org/embed/spirit_sword_sovereign_ep2"
+      },
+      {
+        "episode": 3,
+        "title": "Tập 3: Sức mạnh mới",
+        "videoUrl": "https://archive.org/embed/spirit_sword_sovereign_ep3"
+      }
+    ]
+  },
+  {
+    "id": "against_the_gods",
+    "title": "Nghịch Thiên Tà Thần",
+    "description": "Vân Che mang theo Châu Độc Thiên tái sinh đến một thế giới mới. Với sức mạnh của Châu Độc Thiên, cậu sẽ trở thành người mạnh nhất.",
+    "genre": ["Tu tiên", "Hành động", "Hoạt hình Trung Quốc"],
+    "year": 2023,
+    "status": "Đang phát sóng",
+    "poster": "/placeholder.svg?height=400&width=300&text=Nghịch+Thiên+Tà+Thần",
+    "cover": "/placeholder.svg?height=600&width=1200&text=Nghịch+Thiên+Tà+Thần+Background",
+    "episodes": [
+      {
+        "episode": 1,
+        "title": "Tập 1: Tái sinh",
+        "videoUrl": "https://archive.org/embed/against_the_gods_ep1"
+      },
+      {
+        "episode": 2,
+        "title": "Tập 2: Châu Độc Thiên",
+        "videoUrl": "https://archive.org/embed/against_the_gods_ep2"
+      }
     ]
   }
 ]
